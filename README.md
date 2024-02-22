@@ -1,7 +1,8 @@
 # TEMPLATE OS
 
-Template for x64 based operating system utilizing limine bootloader
-This template adds the flanterm for printing strings without the need of
+Template for x64 based operating system utilizing [limine](https://github.com/limine-bootloader/limine) bootloader
+This template adds the [flanterm](https://github.com/mintsuki/flanterm)
+for printing strings without the need of
 writing you own driver
 
 To use this template you need xorriso, git and optionally qemu
