@@ -9,8 +9,7 @@ To use this template you need xorriso, git and optionally qemu
 # Building
 
 Edit `cfg/config.mk` and edit the toolchain path and compiler if needed
-For building you can use my script `TODOADDHERE`
-
+For building you can use my script [tc-bootstrapper](https://github.com/ShadowDevZ/tc-bootstrapper)
 Run `make bootstrap` or `make limine` if you ran this for the first time
 to download the dependencies.
 After that just run make to build the iso. The iso is located inside the build
